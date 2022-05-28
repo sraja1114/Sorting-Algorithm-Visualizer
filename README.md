@@ -1,6 +1,6 @@
 # Sorting-Algorithm-Visualizer
 This project was created to visualize common sorting algorithms using shapes to represent integers.
-The two numbers that are being compared are highlighted in red, and then are highlighted in green when they are sorted.
+The two numbers that are being compared are highlighted in red, and they are highlighted in green when they are sorted.
 The three sorting algorithms included in the visualization are insertion sort, merge sort, and quick sort.
 The purpose of this application was gain more experience with java script and React applications. 
 
